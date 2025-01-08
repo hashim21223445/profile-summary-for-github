@@ -12,7 +12,7 @@
     <properties>
         <java.version>11</java.version>
         <kotlin.compiler.jvmTarget>11</kotlin.compiler.jvmTarget>
-        <kotlin.version>1.7.20</kotlin.version>
+        <kotlin.version>2.1.0</kotlin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
